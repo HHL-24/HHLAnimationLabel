@@ -1,1 +1,3 @@
 # HHLAnimationLabel
+
+pod 'HHLAnimationLabel'
